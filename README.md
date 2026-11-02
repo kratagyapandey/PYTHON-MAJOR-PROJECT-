@@ -1,4 +1,4 @@
-# Student Management System
+# Student Management and Performance Analytical System
 
 A simple command-line Student Management System made in Python using OOP. You can add students, enter their marks, and see a report card with total, average and grade. All data is saved in a JSON file, so it stays even after you close the program.
 
